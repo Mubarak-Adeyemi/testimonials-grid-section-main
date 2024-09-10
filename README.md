@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Screenshot
 
-![iPhone](<./screenshots/iPhone-12-PRO-127.0.0.1%20(1).png>)
-![Macbook](<./screenshots/Macbook-Air-127.0.0.1%20(4).png>)
+![iPhone] (./screenshots/iPhone-12-PRO-127.0.0.1%20(1).png) ![Macbook]
+(./screenshots/Macbook-Air-127.0.0.1%20(4).png)
 
 ### Links
 
